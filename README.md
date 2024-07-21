@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepenshiDhuria
+- 👋 Hi, I’m @DeepanshiDhuria
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...
